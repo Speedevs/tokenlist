@@ -1,11 +1,11 @@
 {
   "name": "BITPIF GARDEN",
   "logoURI": "http://i.piccy.info/i9/9df08d98c958f72373c0ebda9998ae90/1603037435/4064/1401246/logo.png",
-  "keywords": ["Defi", "BITPIF", "curated"],
+  "keywords": ["Defi", "SKTG", "curated"],
   "tags": {
     "defi": {
       "name": "DeFi Token",
-      "description": "BITPIF token list"
+      "description": "SKTG token list"
     }
   },
   "timestamp": "2020-10-02T00:00:00+00:00",
