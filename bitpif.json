@@ -1,0 +1,59 @@
+{
+  "name": "SKTG",
+  "logoURI": "http://speedkingtoken.icu",
+  "keywords": ["Defi", "SKTG", "curated"],
+  "tags": {
+    "defi": {
+      "name": "DeFi Token",
+      "description": "SKTG token list"
+    }
+  },
+  "timestamp": "2020-12-16T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0xb6d11c0bd7df8a3728ca972ebd9136ac6b0d92c0",
+      "symbol": "SKTG",
+      "name": "SKTG",
+      "decimals": 18,
+      "tags": ["defi"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+      "symbol": "DAI",
+      "name": "Dai Stablecoin",
+      "decimals": 18,
+      "tags": ["defi"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "decimals": 6,
+      "tags": ["defi"]
+    },
+    {
+      "chainId": 1,
+      "address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+      "symbol": "USDT",
+      "name": "Tether USD",
+      "decimals": 6,
+      "tags": ["defi"]
+    },
+    {
+      "chainId": 1,
+      "address": "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+      "symbol": "WBTC",
+      "name": "Wrapped BTC",
+      "decimals": 8,
+      "tags": ["defi"]
+    }
+  ],
+  "version": {
+    "major": 2,
+    "minor": 2,
+    "patch": 2
+  }
+}
